@@ -14,7 +14,8 @@ I am on the path to become a **DATA ALCHEMIST** who brings out magic out of the 
 * Data Visualization :star::star::star::star:
 
 
-:handshake:**Know more about me [here](https://www.linkedin.com/in/swarnima-pandey/):**
+:handshake:**Get in touch:**
+* [**Linkedin**](https://www.linkedin.com/in/swarnima-pandey/)
 
 
 
