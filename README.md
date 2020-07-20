@@ -17,6 +17,8 @@ I am on the path to become a **DATA ALCHEMIST** who brings out magic out of the 
 :handshake:**Get in touch:**
 * [**Linkedin**](https://www.linkedin.com/in/swarnima-pandey/)
 
+**Data Science & Deep Learning blogs at** [**Medium**](https://medium.com/analytics-vidhya/how-to-choose-the-size-of-the-convolution-filter-or-kernel-size-for-cnn-86a55a1e2d15)
+
 
 
 
