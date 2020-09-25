@@ -4,13 +4,13 @@ I am on the path to become a **DATA ALCHEMIST** who brings out magic out of the 
 #### Disclaimer: I believe in learning and implementing. My [portfolio](https://github.com/swarnima26796/Data-Science-Portfolio) repository includes both my original works as well as my hands-on works that I used in my learning process. <br>
 :woman_student:**Education:** M.Tech (2nd Year) in Data Analytics (with research interest in ML, DL and Computer Vision) <br>
 :dart: **Skills:** 
-* Python   :star::star::star::star:
+* Python   :star::star::star::star::star:
 * R Programming :star::star::star::star:
 * Big Data Analytics  :star::star::star::star:
 * Machine Learning  :star::star::star::star:
 * EDA  :star::star::star::star::star:
 * Data cleaning  :star::star::star::star:
-* Deep Learning  :star::star::star:
+* Deep Learning  :star::star::star::star:
 * Data Visualization :star::star::star::star:
 
 
